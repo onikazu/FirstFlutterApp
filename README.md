@@ -4,6 +4,6 @@ first application
 
 ## abstruct
 
-This project is referred to below
+This project refers to below
 
 https://ryuta46.com/978
